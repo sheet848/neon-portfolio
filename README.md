@@ -1,3 +1,7 @@
+# Neon Portfolio
+
+This project is made with respect to the study of TanStack Query.
+
 This project uses:
 
 - Framework: TanStack Start v1 (full-stack React 19 with SSR, file-based routing in src/routes/)
